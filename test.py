@@ -1,4 +1,4 @@
-import math
+
 import os
 import sys
 
@@ -20,5 +20,3 @@ def greet(who):
 print(greet('world'))
 print(greet('lee'))
 
-name = input("?")
-print(name)
